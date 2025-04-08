@@ -1,0 +1,188 @@
+{
+  "MMSC1": {
+    "Status Summary": {
+      "CPU %Idle": "98.0% (Idle)",
+      "DISK": "63% (Warning)",
+      "FREE MEM": "464 MB (Warning)",
+      "NETWORK": "Down",
+      "MMSC Components": "Running",
+      "Billing Component": "Unknown",
+      "IMSI Rules DB": "Running",
+      "LDAP Components": "Running"
+    }
+  },
+  "MMSC2": {
+    "Status Summary": {
+      "CPU %Idle": "97.7% (Idle)",
+      "DISK": "63% (Warning)",
+      "FREE MEM": "1065 MB Free",
+      "NETWORK": "Down",
+      "MMSC Components": "Running",
+      "Billing Component": "Unknown",
+      "IMSI Rules DB": "Running",
+      "LDAP Components": "Running"
+    }
+  },
+  "HSP1": {
+    "Status Summary": {
+      "CPU %Idle": "98.5% (Idle)",
+      "DISK": "62% (Warning)",
+      "FREE MEM": "1123 MB Free",
+      "NETWORK": "Down",
+      "HSP Components": "Running",
+      "LDAP Components": "Running"
+    }
+  },
+  "HSP2": {
+    "Status Summary": {
+      "CPU %Idle": "98.8% (Idle)",
+      "DISK": "74% (Warning)",
+      "FREE MEM": "2353 MB Free",
+      "NETWORK": "Down",
+      "HSP Components": "Running",
+      "LDAP Components": "Unknown"
+    }
+  },
+  "MMSC3": {
+    "Status Summary": {
+      "CPU %Idle": "96.2% (Idle)",
+      "DISK": "45% (Normal)",
+      "FREE MEM": "2048 MB Free",
+      "NETWORK": "Up",
+      "MMSC Components": "Running",
+      "Billing Component": "Running",
+      "IMSI Rules DB": "Running",
+      "LDAP Components": "Running"
+    }
+  },
+  "HSP3": {
+    "Status Summary": {
+      "CPU %Idle": "95.7% (Idle)",
+      "DISK": "38% (Normal)",
+      "FREE MEM": "3200 MB Free",
+      "NETWORK": "Up",
+      "HSP Components": "Running",
+      "LDAP Components": "Running"
+    }
+  },
+  "DB1": {
+    "Status Summary": {
+      "CPU %Idle": "92.3% (Idle)",
+      "DISK": "85% (Critical)",
+      "FREE MEM": "512 MB (Warning)",
+      "NETWORK": "Up",
+      "IMSI Rules DB": "Running",
+      "LDAP Components": "Running"
+    }
+  },
+  "DB2": {
+    "Status Summary": {
+      "CPU %Idle": "94.1% (Idle)",
+      "DISK": "72% (Warning)",
+      "FREE MEM": "768 MB Free",
+      "NETWORK": "Up",
+      "IMSI Rules DB": "Running",
+      "LDAP Components": "Running"
+    }
+  },
+  "AUTH1": {
+    "Status Summary": {
+      "CPU %Idle": "97.8% (Idle)",
+      "DISK": "45% (Normal)",
+      "FREE MEM": "4096 MB Free",
+      "NETWORK": "Up",
+      "LDAP Components": "Running"
+    }
+  },
+  "AUTH2": {
+    "Status Summary": {
+      "CPU %Idle": "91.5% (Idle)",
+      "DISK": "63% (Warning)",
+      "FREE MEM": "512 MB (Warning)",
+      "NETWORK": "Down",
+      "LDAP Components": "Unknown"
+    }
+  },
+  "API1": {
+    "Status Summary": {
+      "CPU %Idle": "93.2% (Idle)",
+      "DISK": "38% (Normal)",
+      "FREE MEM": "2048 MB Free",
+      "NETWORK": "Up",
+      "IMSI Rules DB": "Running"
+    }
+  },
+  "API2": {
+    "Status Summary": {
+      "CPU %Idle": "90.8% (Idle)",
+      "DISK": "45% (Normal)",
+      "FREE MEM": "1536 MB Free",
+      "NETWORK": "Up",
+      "IMSI Rules DB": "Running"
+    }
+  },
+  "CACHE1": {
+    "Status Summary": {
+      "CPU %Idle": "95.3% (Idle)",
+      "DISK": "72% (Warning)",
+      "FREE MEM": "768 MB Free",
+      "NETWORK": "Up"
+    }
+  },
+  "CACHE2": {
+    "Status Summary": {
+      "CPU %Idle": "94.7% (Idle)",
+      "DISK": "63% (Warning)",
+      "FREE MEM": "512 MB (Warning)",
+      "NETWORK": "Down"
+    }
+  },
+  "PROXY1": {
+    "Status Summary": {
+      "CPU %Idle": "96.9% (Idle)",
+      "DISK": "38% (Normal)",
+      "FREE MEM": "2048 MB Free",
+      "NETWORK": "Up"
+    }
+  },
+  "PROXY2": {
+    "Status Summary": {
+      "CPU %Idle": "97.2% (Idle)",
+      "DISK": "45% (Normal)",
+      "FREE MEM": "1536 MB Free",
+      "NETWORK": "Up"
+    }
+  },
+  "STORAGE1": {
+    "Status Summary": {
+      "CPU %Idle": "98.1% (Idle)",
+      "DISK": "85% (Critical)",
+      "FREE MEM": "4096 MB Free",
+      "NETWORK": "Up"
+    }
+  },
+  "STORAGE2": {
+    "Status Summary": {
+      "CPU %Idle": "97.5% (Idle)",
+      "DISK": "72% (Warning)",
+      "FREE MEM": "3200 MB Free",
+      "NETWORK": "Up"
+    }
+  },
+  "COMPUTE1": {
+    "Status Summary": {
+      "CPU %Idle": "89.5% (Idle)",
+      "DISK": "45% (Normal)",
+      "FREE MEM": "2048 MB Free",
+      "NETWORK": "Up"
+    }
+  },
+  "COMPUTE2": {
+    "Status Summary": {
+      "CPU %Idle": "88.7% (Idle)",
+      "DISK": "38% (Normal)",
+      "FREE MEM": "1536 MB Free",
+      "NETWORK": "Up"
+    }
+  }
+}
